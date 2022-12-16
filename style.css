@@ -1,0 +1,257 @@
+body{
+    margin: 0px;
+}
+header{
+    /* padding: 0% 10%;  */
+    
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
+    }
+.nav{
+    padding-left: 650px;
+}
+
+.logo{
+    width: auto;
+    height: 50px;
+    vertical-align: middle;
+    padding: 20px;
+}
+.link-1
+{
+    border-top: 5px #E5BA73 solid ;
+    border-radius: 5%;
+    text-align: right;
+    text-decoration: none;
+    padding: 10px;
+    color:#fff8c5;
+    padding-top: 20px;
+
+}
+.link-2,
+.link-3,
+.link-4,
+.link-5,
+.link-6
+{
+
+    text-decoration: none;
+    padding: 10px;
+    color:#fff8c5;
+}
+.div-top{
+padding: 300px 430px;
+line-height: 120%;
+
+}
+.pp-1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+}
+.pp-2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 76px;
+}
+.pp-3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    line-height: 56.86px;
+}
+.table-box{
+    margin-left: auto;
+    margin-right: auto;
+}
+.box-1{
+    background-color: #633c01;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px 40px;
+    border-radius: 20%;
+    margin: 5px;
+    text-decoration: none;
+}
+.box-2{
+    border: 1px white solid;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px 40px;
+    border-radius: 20%;
+    text-decoration: none;
+}
+.box-1:hover{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 20px;
+    padding: 30px 40px;
+    border-radius: 20%;
+    margin: 5px;
+}
+.box-2:hover{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 20px;
+    padding: 30px 40px;
+    border-radius: 20%;
+}
+.part-1{
+    margin-top: -100px;
+    width:100%;
+    height: auto;
+    background-image:url(./image/drew-coffman-1872.jpg) ;
+    background-size: 100% 100%;
+}
+.part-2{
+    /* width: 100%; */
+    padding: 10%;
+}
+.part-3{
+    /* width: 100%; */
+    padding: 10%;
+    background-color:#d0d7de;
+}
+.part-4{
+    padding: 10%;
+}
+.div-2-part-2{
+    padding-left:70px;
+
+}
+.table-1{
+margin-left: auto;
+margin-right: auto;
+}
+.table-2{
+    margin-left: auto;
+    margin-right: auto;
+}
+.table-3{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+.image-1{
+    width: 500px;
+    height: 500px;
+    color: #5c2200;
+}
+.span-h1{
+    font-size: 30px;
+}
+.p-1{
+    max-width:100% ;
+    color: #5c2200;
+    font-size: 20px;
+}
+.photo{
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    border: 1px  #5c2200 solid;
+    border-radius: 50px;
+    vertical-align: middle;
+}
+.span-1{
+    color: #5c2200;
+    font-size: 20px;
+}
+.image-2{
+    width: 350px;
+    height: 300px;
+    /* margin: 10%; */
+    padding: 20px;
+}
+.p-2{
+    font-size: 25px;
+}
+.p-3{
+    padding: 20px;
+    font-size: 20px;
+
+}
+.p-4{
+    padding: 25px;
+    font-size: 20px;
+    color: #5c2200 ;
+    line-height: 180%;
+    text-align: left;
+
+}
+.table-td{
+    padding:5px ;
+
+}
+.part-5{
+    padding:10% 10%;
+    background-color: #353330;
+}
+.p-7,
+.p-5{
+    color: #797979;
+    font-size: 14px;
+    text-align: left;
+    text-decoration: none;
+}
+.p-5{
+    border-bottom: 1px #797979 solid;
+    padding: 5px ;
+}
+.p-7{
+    padding: 5px;
+    font-size: 14px;
+    color: #848383ac;
+    text-align: left;
+
+}
+.box-x{
+    max-width: 350px;
+    padding: 0px 5px ;
+
+}
+.box-y{
+    max-width: 400px;
+    padding: 0px 10px ;
+
+}
+.p-6{
+    color:  #fff;
+    font-size: 18px;
+    text-align: left;
+
+}
+.p-8{
+    color:  #fff;
+    font-size: 18px;
+    text-align: center;
+
+}
+.photo-link{
+    width: 20px;
+    height: 20px;
+}
+
+.footer{
+    padding: 10px;
+    padding-left: auto;
+    padding-right: auto;
+    background-color: #2a2626;
+
+}
+.photo-footer1{
+    width: 350px;
+    height: 150px;
+}
+.photo-footer2{
+    width: 200px;
+    height: 100px;
+}
